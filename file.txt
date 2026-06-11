@@ -1,1 +1,4 @@
 Hii my name is Abhiroop
+
+>git config --global user.name "Abhiroop"
+>git config --global user.email "zupalliabhiroop@gmail.com"
